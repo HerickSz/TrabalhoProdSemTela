@@ -1,0 +1,15 @@
+C:\Users\heric\source\repos\TrabalhoXML\TrabalhoXML\TrabalhoXML\bin\Debug\net6.0\TrabalhoXML.exe
+C:\Users\heric\source\repos\TrabalhoXML\TrabalhoXML\TrabalhoXML\bin\Debug\net6.0\TrabalhoXML.deps.json
+C:\Users\heric\source\repos\TrabalhoXML\TrabalhoXML\TrabalhoXML\bin\Debug\net6.0\TrabalhoXML.runtimeconfig.json
+C:\Users\heric\source\repos\TrabalhoXML\TrabalhoXML\TrabalhoXML\bin\Debug\net6.0\TrabalhoXML.dll
+C:\Users\heric\source\repos\TrabalhoXML\TrabalhoXML\TrabalhoXML\bin\Debug\net6.0\TrabalhoXML.pdb
+C:\Users\heric\source\repos\TrabalhoXML\TrabalhoXML\TrabalhoXML\obj\Debug\net6.0\TrabalhoXML.csproj.AssemblyReference.cache
+C:\Users\heric\source\repos\TrabalhoXML\TrabalhoXML\TrabalhoXML\obj\Debug\net6.0\TrabalhoXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heric\source\repos\TrabalhoXML\TrabalhoXML\TrabalhoXML\obj\Debug\net6.0\TrabalhoXML.AssemblyInfoInputs.cache
+C:\Users\heric\source\repos\TrabalhoXML\TrabalhoXML\TrabalhoXML\obj\Debug\net6.0\TrabalhoXML.AssemblyInfo.cs
+C:\Users\heric\source\repos\TrabalhoXML\TrabalhoXML\TrabalhoXML\obj\Debug\net6.0\TrabalhoXML.csproj.CoreCompileInputs.cache
+C:\Users\heric\source\repos\TrabalhoXML\TrabalhoXML\TrabalhoXML\obj\Debug\net6.0\TrabalhoXML.dll
+C:\Users\heric\source\repos\TrabalhoXML\TrabalhoXML\TrabalhoXML\obj\Debug\net6.0\refint\TrabalhoXML.dll
+C:\Users\heric\source\repos\TrabalhoXML\TrabalhoXML\TrabalhoXML\obj\Debug\net6.0\TrabalhoXML.pdb
+C:\Users\heric\source\repos\TrabalhoXML\TrabalhoXML\TrabalhoXML\obj\Debug\net6.0\TrabalhoXML.genruntimeconfig.cache
+C:\Users\heric\source\repos\TrabalhoXML\TrabalhoXML\TrabalhoXML\obj\Debug\net6.0\ref\TrabalhoXML.dll
